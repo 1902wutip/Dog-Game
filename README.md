@@ -1,6 +1,6 @@
 ## Dog Game
 
-1. A funny game completed developed in Python with turtle package.
+1. A funny game completely developed in Python with turtle package (in cooperation with ChatGPT 3.5).
 
 2. Run command "python 小狗游戏.py" or "python 小狗游戏.pyw" to start the game.
 
