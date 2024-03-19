@@ -23,6 +23,12 @@
 
 7. Acceleration and velocity in different directions are added in vector form, as if they are in the real physical world.
 
-8. You will get level up every 30 seconds before being hit by the obstacle.
+8. The dog will lose all its horizontal velocity if it collides with the walls.
 
-9. Once the obstacle hits the dog, you lose the game.
+9. The obstacle will be bounced back if it collides with the walls.
+
+10. The obstacle has a small probability to change its velocity at any moment.
+
+11. You will get level up every 30 seconds before being hit by the obstacle.
+
+12. Once the obstacle hits the dog, you lose the game.
