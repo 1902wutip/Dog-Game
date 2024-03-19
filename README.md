@@ -19,7 +19,7 @@
 
 5. Your dog can mvoe right by pressing "right" button on the keyboard to get velocity rightward.
 
-6. Your dog can jump up by pressing "space" button on the keyboard to get velocity upward (against gravity acceleration).
+6. Your dog can jump up by pressing "space" button on the keyboard to get velocity upward (against the gravity acceleration downward).
 
 7. Acceleration and velocity in different directions are added in vector form, as if they are in the real physical world.
 
