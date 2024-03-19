@@ -15,14 +15,14 @@
 
 3. Your are tasked to help the dog hide the obstacle.
 
-4. Your dog can move left by pressing "left" button on the keyboard to get velocity leftward.
+4. Your dog can move left by pressing "left" button on the keyboard to change velocity leftward.
 
-5. Your dog can mvoe right by pressing "right" button on the keyboard to get velocity rightward.
+5. Your dog can mvoe right by pressing "right" button on the keyboard to change velocity rightward.
 
-6. Your dog can jump up by pressing "space" button on the keyboard to get velocity upward (against the gravity acceleration downward).
+6. Your dog can jump up by pressing "space" button on the keyboard to change velocity upward (against the gravity acceleration downward).
 
 7. Acceleration and velocity in different directions are added in vector form, as if they are in the real physical world.
 
 8. You will get level up every 30 seconds before being hit by the obstacle.
 
-9. Once the obstacle hit the dog, you loses the game.
+9. Once the obstacle hits the dog, you lose the game.
